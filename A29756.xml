@@ -151,7 +151,10 @@ and Versed Sines.</p>
                <hi>London,</hi> Printed by <hi>T. I.</hi> for <hi>I. Brown,</hi> and
 <hi>H. Sutton,</hi> and sold at their houses in the
 <hi>Minories,</hi> &amp; <hi>Thredneedle-street.</hi> 1661.</p>
-            <figure/>
+            <p>
+               <pb facs="tcp:97766:2"/>
+               <figure/>
+            </p>
             <pb facs="tcp:97766:2"/>
          </div>
          <div type="to_the_reader">
@@ -2785,7 +2788,25 @@ square on that side 12, as the
 stile must stand on, as A B C D, the
 perpendicular side of which square
 may also be the parallel as before.</p>
-                  <figure/>
+                  <p>Then first, fit the side of the square
+in the sine of the latitude, and take
+out the cosine of the latitude, and fit
+that in the sine of 90; the Sector so
+standing, take out the sine of the de<g ref="char:EOLhyphen"/>clination,
+and lay it from B toward
+C, unto <gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, and draw A E for the
+substile, then upon the point E in the
+substile, raise a perpendicular, and
+take out the sine complement of the
+Plains declination, and set it on that
+perpendicular from E to F, for the
+<pb facs="tcp:97766:49"/>
+                     <pb facs="tcp:97766:50"/>
+                     <figure/>
+                     <pb n="67" facs="tcp:97766:50" rendition="simple:additions"/>
+height of the stile above the Plain.</p>
                   <p>Again, fit the side of the square in
 the cosine of the latitude, and take
 out the sine of the latitude, and fit
@@ -2998,7 +3019,144 @@ shew on the Plain, as here you see to
                      </row>
                   </table>
                </p>
-               <figure/>
+               <p>Then consider what hours will be
+convenient to put on, also the two
+places most convenient for them two
+extreme hours: as for this Plain 8 at
+night, and <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> afternoon, will fit best;
+and the two places I appoint for them
+<pb n="72" facs="tcp:97766:53"/>
+shall be at E, and C, in the upper
+contingent line. Then look in the
+table for the numbers of 8, and I
+finde it to be 41, 51, which sought
+in a table of natural tangents will be
+found to be 0 8 9 5 6 7. And the
+number in the table for 1 is 63. 09,
+whose natural number is found to be
+1 9 7 5 3 7. Or if you want those
+tables, the line of Lines and Tan<g ref="char:EOLhyphen"/>gents,
+or a Scale made equal to the
+Radius of the tangents, will supply
+the same though you cannot see so
+many figures, yet to four figures will
+serve our turn very well, or else the
+artificial tangent on the edge shall
+shew the natural number in the line of
+numbers, reading it as a Scale of
+equal parts, and having due respect to
+the increase of the Radius; for if it be
+under 45, the number right against it,
+is the natural tangent; if above 45
+measure from 45 to it, that extent
+aplyed from 1 in the numbers, giveth
+the natural number required. Add
+these two numbers 0 8 9 6 and 19,
+<pb facs="tcp:97766:53"/>
+                  <figure/>
+                  <pb facs="tcp:97766:54"/>
+                  <pb n="73" facs="tcp:97766:54"/>
+75, and they make 2 8 7 1: which
+sought in the tables will be found to
+be the Logarithm of the natural tan<g ref="char:EOLhyphen"/>gent
+of 70. 48. or if you take it off
+from your Scale, and measure it on
+the line of tangents you shall finde it
+reach to 70. 48, as before, then take
+the whole space of your upper con<g ref="char:EOLhyphen"/>tingent
+from E to C, the two points
+for 8 and 1, and fit it in the parallel
+tangent of 70. 48 and then the tan<g ref="char:EOLhyphen"/>gent
+of 45 shall be Radius, and the
+<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ecant of the stiles height to the same
+Radius, shall be the stiles height on
+<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he contingent. (or the Radius be<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ore,
+laid at the nighest distance from
+H to <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> then the sector so set, take
+<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut the number for 1, out of the line
+of tangents, and lay it from C to H,
+<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd the number for 8, and lay it from
+E to H, and if your work be true they
+will meet, and that point H, is the
+<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ue place of the substile: then draw
+<gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> I parallel to A D, for the true
+<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>bstile, and the sector so standing lay
+<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ff all the numbers in the table, taken
+<pb n="74" facs="tcp:97766:55"/>
+out of the tangents from H toward E,
+and C as the numbers direct, and note
+them points with 1, 2, 3, 4, 5, 6, 7, 8.
+Then lay the Radius H K, from I to
+L, on the other contingent line, and
+making H I Radius, or the tangent of
+45, lay off the tangent of the stiles
+height, from L to M 9. 16 then shall
+I M, be the other Radius, on the
+other contingent line, and I N the
+secant of 9. 16, at the Radius of I M,
+the place of the stiles height on this
+contingent line, being found more
+readily, by taking the Radius I M, at
+the nighest distance being about I <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,
+and H <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, then draw <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for the true
+height of the stile, being augmented to
+sit those hours 8 and 1, and to fil the
+Plain so, that no room be lost, the<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+having drawn the stile, and set th<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+sector to the Radius, lay down al<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+the numbers in the table, on this con<g ref="char:EOLhyphen"/>tingent
+line out of the line of tan<g ref="char:EOLhyphen"/>gents,
+from I both ways: as th<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+numbers direct, and mark ever<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+whole hour, with 1, <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, 3, 4, 5, 6, 7, 8
+<pb n="75" facs="tcp:97766:55"/>
+as before. Lastly, lines drawn by these
+markes in the two contingent lines,
+shall be the hours and quarters re<g ref="char:EOLhyphen"/>quired.</p>
                <p>The stile or gnomon is to be ere<g ref="char:EOLhyphen"/>cted
 right over the substile, to the an<g ref="char:EOLhyphen"/>gle
 of 9. 16, and augmented as much
@@ -3042,7 +3200,36 @@ Plains, the perfect knowledge of their
 affections and scituations is very hard
 to conceive, but much more hard to
 remember by roat, or knowingly.</p>
-                  <figure/>
+                  <p>Therefore for the better help of the
+imagination to conceive aright of
+their affections, and setuations you
+may be furnished with an Instrument
+in brass, at the house of Mr. <hi>Walter
+Hayes,</hi> neer the Popes-head Tavern
+in <hi>Morefields,</hi> at the Sign of the <hi>Cross-daggers,</hi>
+or at the house of <hi>Iohn Brown,</hi>
+at the Sign of the <hi>Sun-Dial</hi> in the
+<hi>Minories,</hi> or at Mr. <hi>Henry Suttons</hi> in
+<pb facs="tcp:97766:56"/>
+                     <figure/>
+                     <pb facs="tcp:97766:57"/>
+                     <pb n="77" facs="tcp:97766:57"/>
+                     <hi>Thredneedle-street</hi> behind the <hi>Ex<g ref="char:EOLhyphen"/>change.</hi>
+Which Instrument being
+righ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ly made, you may rectifie to any
+latitude, and to any declination or
+reclination, and being so set, it will
+give the substile, stile, inclination of
+Meridians, and every hours Ark on
+the Plain by occular inspection to
+half a degree, and shew you all the
+affections straightway: howsoever
+situated, as which Pole is elevated,
+and which way applied, and what hours
+will be useful, <hi>&amp;c.</hi>
+                  </p>
                   <p>A representation of which instru<g ref="char:EOLhyphen"/>ment
 take in this place, let the circle
 E S W N, represent the Horizon
@@ -3194,7 +3381,28 @@ which I shall not trouble you.</p>
                </div>
                <div n="2" type="example">
                   <head>An example at two stations.</head>
-                  <figure/>
+                  <p>But if you cannot come to measure
+to the foot of the object, then you
+must observe at two places: As sup<g ref="char:EOLhyphen"/>pose
+first at D, where as before the
+<pb facs="tcp:97766:60"/>
+                     <figure/>
+                     <pb facs="tcp:97766:61"/>
+                     <pb n="83" facs="tcp:97766:61"/>
+Angle is found 56. 30, whose com<g ref="char:EOLhyphen"/>plement
+is 33. 30, counting from the
+head of the Ru<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e: Then I remove
+right backward to C, 111 feet, and
+observe the Angle counted from the
+head to be 48. 15, which is the angle
+at B, but the angle at C is 41. 45.
+Then the work is thus: first, you must
+take the angle at B at the first station,
+out of the angle at B, at the second
+station, and note the difference, then
+the rule runs thus:</p>
                   <p>As the Sine of the difference, which is
 the Angle <hi>C B D</hi> 14. 45,<lb/>
 Is to the side measured, <hi>viz. D C</hi> 111
